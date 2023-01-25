@@ -1,0 +1,15 @@
+<resources>
+    <string name="test">Test</string>
+
+    <!--Bottom Nav-->
+    <string name="nav_home">Beranda</string>
+    <string name="nav_activity">Aktifitas</string>
+    <string name="nav_balance">Saldo</string>
+    <string name="nav_profile">Profil</string>
+    <string name="title">Mandiri Berita</string>
+    <string name="title_article">Tittle nya</string>
+    <string name="detail_title">Detail News</string>
+    <string name="nav_apple">Apple News</string>
+    <string name="nav_top">Top Bussines</string>
+
+</resources>
